@@ -11,7 +11,7 @@ $ npm i bigwiggle
 Usage:
 
 ```javascript
-import { bigWiggle } from 'bigwiggle';
+const { bigWiggle } = require('bigwiggle');
 
 // replace 'Big Wiggle' with your desired text or variable/function
 bigWiggle('Big Wiggle');

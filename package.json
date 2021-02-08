@@ -1,0 +1,24 @@
+{
+    "name": "bigwiggle",
+    "version": "1.0.3",
+    "description": "Let's make some Wiggles",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "CharlieCat",
+    "license": "ISC",
+    "dependencies": {
+        "gradient-string": "^1.2.0"
+    },
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/slovak-cat/bigWiggle.git"
+    },
+    "bugs": {
+        "url": "https://github.com/slovak-cat/bigWiggle/issues"
+    },
+    "homepage": "https://github.com/slovak-cat/bigWiggle#readme"
+}
